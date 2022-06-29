@@ -6,10 +6,3 @@ def recursive_function(i):
     print(i, "번째 재귀함수를 종료합니다.")
 
 recursive_function(1)
-
-def test(a):
-    a += 1
-
-a = 3
-test(a)
-print(a)
